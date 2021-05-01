@@ -1,7 +1,7 @@
 # Jogo-da-Velha
 
 Bootcamp JavaScript Game Developer
-Digital Innovation One
+- Digital Innovation One
 
 HTML, CSS, JavaScript
 
